@@ -15,7 +15,7 @@
 
 ### Открытые позиции
 
-- Backend Python Developer 
-- Frontend React Developer
+- [Backend Python Developer](https://github.com/rnd2035/rnd2035/blob/main/BACKEND.md)
+- [Frontend React Developer](https://github.com/rnd2035/rnd2035/blob/main/FRONTEND.md)
 - Инженер по тестированию
 - UI/UX дизайнер
